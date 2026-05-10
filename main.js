@@ -10,3 +10,7 @@ function featureA(){
 function featureB(){
     return "featuresB"
 }
+
+function tasks(){
+    return "tasks"
+}
